@@ -8,3 +8,5 @@ Homework 2: ([HW2_Списки_та_словники.ipynb](https://github.com/Y
 Homework 3: ([HW3_Умовні_конструкції_(if_elif_else).ipynb](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW3_%D0%A3%D0%BC%D0%BE%D0%B2%D0%BD%D1%96_%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%97_(if_elif_else).ipynb))
 
 Homework 4: ([HW4_Цикл_for.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW4_%D0%A6%D0%B8%D0%BA%D0%BB_for.ipynb))
+
+Homework 5: ([HW5_Цикл_while_List_comprehensions.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW5_%D0%A6%D0%B8%D0%BA%D0%BB_while_List_comprehensions.ipynb))
