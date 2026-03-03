@@ -12,3 +12,5 @@ Homework 4: ([HW4_Цикл_for.ipynb](https://github.com/YatsiukTetiana/ML_DS_co
 Homework 5: ([HW5_Цикл_while_List_comprehensions.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW5_%D0%A6%D0%B8%D0%BA%D0%BB_while_List_comprehensions.ipynb))
   
 Homework 6: ([HW6_Функції.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW6_%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D1%96%D1%97.ipynb))
+
+Homework 7: ([HW7_Numpy](https://github.com/YatsiukTetiana/ML_DS_course/blob/9e5187a086aeea43e9f5c8247280b7e090f67e75/HW7_Numpy.ipynb))
