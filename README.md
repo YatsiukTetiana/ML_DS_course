@@ -16,3 +16,5 @@ Homework 6: ([HW6_Функції.ipynb](https://github.com/YatsiukTetiana/ML_DS_
 Homework 7: ([HW7_Numpy.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/blob/9e5187a086aeea43e9f5c8247280b7e090f67e75/HW7_Numpy.ipynb))
 
 Homework 8: ([HW8_Pandas.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW8_Pandas.ipynb))
+
+Homework 9: ([HW9_Data_Visualization](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW9_Data_Visualization.ipynb))
