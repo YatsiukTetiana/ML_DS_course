@@ -18,3 +18,5 @@ Homework 7: ([HW7_Numpy.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/bl
 Homework 8: ([HW8_Pandas.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW8_Pandas.ipynb))
 
 Homework 9: ([HW9_Data_Visualization](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW9_Data_Visualization.ipynb))
+
+ML from 0 to Hero EDA: ([1_1_EDA.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/1_1_EDA.ipynb))
