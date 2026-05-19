@@ -20,3 +20,7 @@ Homework 8: ([HW8_Pandas.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/b
 Homework 9: ([HW9_Data_Visualization](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW9_Data_Visualization.ipynb))
 
 ML from 0 to Hero EDA: ([1_1_EDA.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/1_1_EDA.ipynb))
+
+# Module 1
+
+Homework 1.1: ([HW_1_1_Основи_статистики.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW_1_1_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8.ipynb))
