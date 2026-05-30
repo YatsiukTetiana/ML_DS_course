@@ -24,3 +24,4 @@ ML from 0 to Hero EDA: ([1_1_EDA.ipynb](https://github.com/YatsiukTetiana/ML_DS_
 # Module 1
 
 Homework 1.1: ([HW_1_1_Основи_статистики.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW_1_1_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8.ipynb))
+Homework 1.2: ([HW_1_2_Credit_EDA.ipynb](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW_1_2_Credit_EDA.ipynb))
