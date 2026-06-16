@@ -30,3 +30,5 @@ Homework 1.2: ([HW_1_2_Credit_EDA.ipynb](https://github.com/YatsiukTetiana/ML_DS
 # Module 2
 
 Homework 2.1.: ([HW_2_1_Тестування_стат_гіпотез](https://github.com/YatsiukTetiana/ML_DS_course/blob/main/HW_2_1_%D0%A2%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D1%81%D1%82%D0%B0%D1%82_%D0%B3%D1%96%D0%BF%D0%BE%D1%82%D0%B5%D0%B7.ipynb))
+
+Homework 2.3.: ([HW_2_1_Функції_і_похідні.ipynb]())
